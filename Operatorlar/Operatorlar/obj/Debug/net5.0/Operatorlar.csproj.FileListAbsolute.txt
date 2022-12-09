@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\bin\Debug\net5.0\Operatorlar.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\bin\Debug\net5.0\Operatorlar.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\bin\Debug\net5.0\Operatorlar.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\bin\Debug\net5.0\Operatorlar.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\bin\Debug\net5.0\Operatorlar.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\bin\Debug\net5.0\Operatorlar.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\obj\Debug\net5.0\Operatorlar.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\obj\Debug\net5.0\Operatorlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\obj\Debug\net5.0\Operatorlar.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\obj\Debug\net5.0\Operatorlar.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\obj\Debug\net5.0\Operatorlar.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\obj\Debug\net5.0\Operatorlar.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\obj\Debug\net5.0\refint\Operatorlar.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\obj\Debug\net5.0\Operatorlar.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\obj\Debug\net5.0\Operatorlar.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Operatorler\Operatorlar\Operatorlar\obj\Debug\net5.0\ref\Operatorlar.dll
