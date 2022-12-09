@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\bin\Debug\net5.0\console-prog.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\bin\Debug\net5.0\console-prog.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\bin\Debug\net5.0\console-prog.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\bin\Debug\net5.0\console-prog.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\bin\Debug\net5.0\console-prog.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\bin\Debug\net5.0\console-prog.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\obj\Debug\net5.0\console-prog.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\obj\Debug\net5.0\console-prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\obj\Debug\net5.0\console-prog.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\obj\Debug\net5.0\console-prog.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\obj\Debug\net5.0\console-prog.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\obj\Debug\net5.0\console-prog.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\obj\Debug\net5.0\refint\console-prog.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\obj\Debug\net5.0\console-prog.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\obj\Debug\net5.0\console-prog.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\console-prog\console-prog\obj\Debug\net5.0\ref\console-prog.dll
