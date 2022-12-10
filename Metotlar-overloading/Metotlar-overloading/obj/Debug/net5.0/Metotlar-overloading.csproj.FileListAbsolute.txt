@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\bin\Debug\net5.0\Metotlar-overloading.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\bin\Debug\net5.0\Metotlar-overloading.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\bin\Debug\net5.0\Metotlar-overloading.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\bin\Debug\net5.0\Metotlar-overloading.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\bin\Debug\net5.0\Metotlar-overloading.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\bin\Debug\net5.0\Metotlar-overloading.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\obj\Debug\net5.0\Metotlar-overloading.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\obj\Debug\net5.0\Metotlar-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\obj\Debug\net5.0\Metotlar-overloading.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\obj\Debug\net5.0\Metotlar-overloading.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\obj\Debug\net5.0\Metotlar-overloading.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\obj\Debug\net5.0\Metotlar-overloading.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\obj\Debug\net5.0\refint\Metotlar-overloading.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\obj\Debug\net5.0\Metotlar-overloading.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\obj\Debug\net5.0\Metotlar-overloading.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Metotlar-overloading\Metotlar-overloading\obj\Debug\net5.0\ref\Metotlar-overloading.dll
