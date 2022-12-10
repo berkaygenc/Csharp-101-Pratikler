@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\bin\Debug\net5.0\Odev1_1.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\bin\Debug\net5.0\Odev1_1.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\bin\Debug\net5.0\Odev1_1.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\bin\Debug\net5.0\Odev1_1.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\bin\Debug\net5.0\Odev1_1.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\bin\Debug\net5.0\Odev1_1.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\obj\Debug\net5.0\Odev1_1.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\obj\Debug\net5.0\Odev1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\obj\Debug\net5.0\Odev1_1.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\obj\Debug\net5.0\Odev1_1.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\obj\Debug\net5.0\Odev1_1.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\obj\Debug\net5.0\Odev1_1.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\obj\Debug\net5.0\refint\Odev1_1.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\obj\Debug\net5.0\Odev1_1.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\obj\Debug\net5.0\Odev1_1.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\Odev1_1\Odev1_1\obj\Debug\net5.0\ref\Odev1_1.dll
