@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\bin\Debug\net5.0\diziler-array-sinifi-metotlar.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\bin\Debug\net5.0\diziler-array-sinifi-metotlar.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\bin\Debug\net5.0\diziler-array-sinifi-metotlar.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\bin\Debug\net5.0\diziler-array-sinifi-metotlar.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\bin\Debug\net5.0\diziler-array-sinifi-metotlar.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\bin\Debug\net5.0\diziler-array-sinifi-metotlar.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\obj\Debug\net5.0\diziler-array-sinifi-metotlar.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\obj\Debug\net5.0\diziler-array-sinifi-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\obj\Debug\net5.0\diziler-array-sinifi-metotlar.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\obj\Debug\net5.0\diziler-array-sinifi-metotlar.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\obj\Debug\net5.0\diziler-array-sinifi-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\obj\Debug\net5.0\diziler-array-sinifi-metotlar.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\obj\Debug\net5.0\refint\diziler-array-sinifi-metotlar.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\obj\Debug\net5.0\diziler-array-sinifi-metotlar.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\obj\Debug\net5.0\diziler-array-sinifi-metotlar.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\diziler-array-sinifi-metotlar\diziler-array-sinifi-metotlar\obj\Debug\net5.0\ref\diziler-array-sinifi-metotlar.dll
