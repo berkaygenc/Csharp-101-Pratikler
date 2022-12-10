@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\net5.0\refint\recursive_extension_metotlar.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\net5.0\ref\recursive_extension_metotlar.dll
