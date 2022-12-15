@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\bin\Debug\net5.0\arraylist.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\bin\Debug\net5.0\arraylist.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\bin\Debug\net5.0\arraylist.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\bin\Debug\net5.0\arraylist.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\bin\Debug\net5.0\arraylist.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\bin\Debug\net5.0\arraylist.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\obj\Debug\net5.0\arraylist.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\obj\Debug\net5.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\obj\Debug\net5.0\arraylist.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\obj\Debug\net5.0\arraylist.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\obj\Debug\net5.0\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\obj\Debug\net5.0\arraylist.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\obj\Debug\net5.0\refint\arraylist.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\obj\Debug\net5.0\arraylist.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\obj\Debug\net5.0\arraylist.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\arraylist\arraylist\obj\Debug\net5.0\ref\arraylist.dll
