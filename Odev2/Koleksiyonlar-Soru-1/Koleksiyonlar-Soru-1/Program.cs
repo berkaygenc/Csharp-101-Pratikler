@@ -49,6 +49,7 @@ namespace Koleksiyonlar_Soru_1
                     Console.WriteLine("Sayı formatında bir değer giriniz.");
                 }
             }
+            
             Console.WriteLine("----- ASAL LİSTE -----");
             if (asalList.Count > 0)
             {
