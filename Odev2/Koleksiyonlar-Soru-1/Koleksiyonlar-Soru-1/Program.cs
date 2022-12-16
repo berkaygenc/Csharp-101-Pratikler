@@ -12,7 +12,7 @@ namespace Koleksiyonlar_Soru_1
             ArrayList list = new ArrayList();
 
             int sayi = 0;
-            while((asalList.Count+list.Count)<5)
+            while((asalList.Count+list.Count)<20)
             {
                 try
                 {
