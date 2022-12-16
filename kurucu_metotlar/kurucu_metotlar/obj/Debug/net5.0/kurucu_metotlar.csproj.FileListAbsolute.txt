@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\bin\Debug\net5.0\kurucu_metotlar.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\obj\Debug\net5.0\refint\kurucu_metotlar.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\obj\Debug\net5.0\kurucu_metotlar.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\kurucu_metotlar\kurucu_metotlar\obj\Debug\net5.0\ref\kurucu_metotlar.dll
