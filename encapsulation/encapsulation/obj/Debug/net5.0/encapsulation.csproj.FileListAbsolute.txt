@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\bin\Debug\net5.0\encapsulation.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\bin\Debug\net5.0\encapsulation.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\obj\Debug\net5.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\obj\Debug\net5.0\encapsulation.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\obj\Debug\net5.0\refint\encapsulation.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\encapsulation\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
