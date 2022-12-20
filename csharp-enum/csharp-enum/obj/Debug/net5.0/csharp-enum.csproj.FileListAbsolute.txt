@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\bin\Debug\net5.0\csharp-enum.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\bin\Debug\net5.0\csharp-enum.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\bin\Debug\net5.0\csharp-enum.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\bin\Debug\net5.0\csharp-enum.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\bin\Debug\net5.0\csharp-enum.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\bin\Debug\net5.0\csharp-enum.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\obj\Debug\net5.0\csharp-enum.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\obj\Debug\net5.0\csharp-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\obj\Debug\net5.0\csharp-enum.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\obj\Debug\net5.0\csharp-enum.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\obj\Debug\net5.0\csharp-enum.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\obj\Debug\net5.0\csharp-enum.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\obj\Debug\net5.0\refint\csharp-enum.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\obj\Debug\net5.0\csharp-enum.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\obj\Debug\net5.0\csharp-enum.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\csharp-enum\csharp-enum\obj\Debug\net5.0\ref\csharp-enum.dll
