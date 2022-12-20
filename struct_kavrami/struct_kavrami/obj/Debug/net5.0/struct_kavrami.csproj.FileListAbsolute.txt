@@ -1,0 +1,16 @@
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\bin\Debug\net5.0\struct_kavrami.exe
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\bin\Debug\net5.0\struct_kavrami.deps.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\bin\Debug\net5.0\struct_kavrami.runtimeconfig.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\bin\Debug\net5.0\struct_kavrami.runtimeconfig.dev.json
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\bin\Debug\net5.0\struct_kavrami.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\bin\Debug\net5.0\struct_kavrami.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\obj\Debug\net5.0\struct_kavrami.csproj.AssemblyReference.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\obj\Debug\net5.0\struct_kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\obj\Debug\net5.0\struct_kavrami.AssemblyInfoInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\obj\Debug\net5.0\struct_kavrami.AssemblyInfo.cs
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\obj\Debug\net5.0\struct_kavrami.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\obj\Debug\net5.0\struct_kavrami.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\obj\Debug\net5.0\refint\struct_kavrami.dll
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\obj\Debug\net5.0\struct_kavrami.pdb
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\obj\Debug\net5.0\struct_kavrami.genruntimeconfig.cache
+C:\Users\ilkay\OneDrive\Masaüstü\Pratikler\struct_kavrami\struct_kavrami\obj\Debug\net5.0\ref\struct_kavrami.dll
